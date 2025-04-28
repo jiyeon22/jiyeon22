@@ -7,10 +7,13 @@
   </a>
 </div>
 
-
-## 👩‍💻 About Me
-I am passionate about learning data analysis and AI, and continuously striving to grow.
-
+<div align="center">
+<h3>👩‍💻 About Me</h3>
+<p>
+I am passionate about learning data analysis and AI,<br>
+and continuously striving to grow.
+</p>
+</div>
 
 
 ## 🚀 Skills
