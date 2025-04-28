@@ -58,11 +58,11 @@ and continuously striving to grow.
 <h3>📈 GitHub Stats</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jiyeon22&theme=tokyonight&show_icons=true" width="400" />
+ <img src="https://github-readme-stats.vercel.app/api?username=jiyeon22&theme=radical&show_icons=true" width="400" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&theme=tokyonight" width="400" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&theme=radical" width="400" />
 </p>
 
 </div>
