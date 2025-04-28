@@ -58,11 +58,7 @@ and continuously striving to grow.
 <h3>📈 GitHub Stats</h3>
 
 <p>
- <img src="https://github-readme-stats.vercel.app/api?username=jiyeon22&show_icons=true&bg_color=ffffff&title_color=ff6ec4&text_color=000000&icon_color=7873f5&border_radius=20" width="400" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&bg_color=ffffff&title_color=ff6ec4&text_color=000000&border_radius=20" width="400" />
+<img src="https://github-profile-trophy.vercel.app/?username=jiyeon22&theme=flat&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=false&title=Stars,Commits,PRs,Issues,Repositories,Followers&theme=gruvbox_light" />
 </p>
 
 </div>
@@ -70,6 +66,10 @@ and continuously striving to grow.
 
 
 <!--
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&bg_color=ffffff&title_color=ff6ec4&text_color=000000&border_radius=20" width="400" />
+</p>
+
 **jiyeon22/jiyeon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
