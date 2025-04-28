@@ -62,15 +62,17 @@ and continuously striving to grow.
 
 <a href="https://github.com/jiyeon22">
   <img align="center" style="height:180px" 
-    src="https://github-readme-stats.vercel.app/api?username=jiyeon22&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,E0BBE4,FCEFF9,ffffff&title_color=A569BD&text_color=000000" />
+    src="https://github-readme-stats.vercel.app/api?username=jiyeon22&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,E0BBE4,FAF3DD,ffffff&title_color=A569BD&text_color=000000" />
 </a>
 
 <a href="https://github.com/jiyeon22">
   <img align="center" style="height:180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&hide_border=true&bg_color=30,E0BBE4,FCEFF9,ffffff&title_color=A569BD&text_color=000000" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&hide_border=true&bg_color=30,E0BBE4,FAF3DD,ffffff&title_color=A569BD&text_color=000000" />
 </a>
 
 </div>
+
+
 
 
 
