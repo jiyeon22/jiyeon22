@@ -8,6 +8,9 @@
   <a href="https://github.com/jiyeon22">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://velog.io/@ynii" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
 </div>
 
 <div align="center">
@@ -60,15 +63,14 @@ and continuously striving to grow.
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=jiyeon22&show_icons=true&bg_color=ffffff&title_color=7f7fd5&text_color=000000&icon_color=86a8e7&border_radius=20" width="400" />
 </p>
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&bg_color=ffffff&title_color=7f7fd5&text_color=000000&border_radius=20" width="400" />
+</p>
 </div>
 
 
 
 <!--
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&bg_color=ffffff&title_color=ff6ec4&text_color=000000&border_radius=20" width="400" />
-</p>
 
 **jiyeon22/jiyeon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
