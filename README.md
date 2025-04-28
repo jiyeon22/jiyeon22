@@ -4,7 +4,6 @@
 <h2 align="center">🔗 Profile</h2>
 <p align="center">
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiyeon22)
-
 </p>
 
 <h2 align="center">👩‍💻 About Me</h2>
@@ -23,7 +22,7 @@ I am passionate about learning data analysis and AI, and continuously striving t
   [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)]()
 </p>
 
-<h2 align="center">🛠️ Tools</h2>
+<h2 align="center">🛠 Tools</h2>
 <p align="center">
   [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)]()
   [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)]()
@@ -35,9 +34,8 @@ I am passionate about learning data analysis and AI, and continuously striving t
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiyeon22&theme=tokyonight&show_icons=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=jiyeon22&theme=tokyonight&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact"><br><br>
-</p>
 
 <!--
 **jiyeon22/jiyeon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
