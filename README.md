@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Jiyeon's%20GitHub&fontSize=50&fontColor=ffffff)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Jiyeon's%20GitHub&fontSize=50&fontColor=ffffff" />
+</div>
+
 
 <h3 align="center">🔗 Profile</h3>
 <div align="center">
