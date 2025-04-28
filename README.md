@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Jiyeon's%20GitHub&fontSize=50&fontColor=ffffff)
 
 
-## 🔗 Profile
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiyeon22)
+<h2 align="center">🔗 Profile</h2>
+<p align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiyeon22)
+</p>
 
 
 
