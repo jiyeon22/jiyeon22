@@ -62,45 +62,18 @@ and continuously striving to grow.
 
 <a href="https://github.com/jiyeon22">
   <img align="center" style="height:180px" 
-    src="https://github-readme-stats.vercel.app/api?username=jiyeon22&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,cabbe9,e3d4b9,ffffff&title_color=5D3FD3&text_color=000000" />
+    src="https://github-readme-stats.vercel.app/api?username=jiyeon22&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,E0BBE4,FCEFF9,ffffff&title_color=A569BD&text_color=000000" />
 </a>
 
 <a href="https://github.com/jiyeon22">
   <img align="center" style="height:180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&hide_border=true&bg_color=30,cabbe9,e3d4b9,ffffff&title_color=5D3FD3&text_color=000000" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&hide_border=true&bg_color=30,E0BBE4,FCEFF9,ffffff&title_color=A569BD&text_color=000000" />
 </a>
 
 </div>
-<div align="center">
 
-<h3>📈 GitHub Stats</h3>
 
-<a href="https://github.com/jiyeon22">
-  <img align="center" style="height:180px" 
-    src="https://github-readme-stats.vercel.app/api?username=jiyeon22&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,ff9a9e,fad0c4,a1c4fd&title_color=ff6ec4&text_color=000000" />
-</a>
 
-<a href="https://github.com/jiyeon22">
-  <img align="center" style="height:180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&hide_border=true&bg_color=30,ff9a9e,fad0c4,a1c4fd&title_color=ff6ec4&text_color=000000" />
-</a>
-
-</div>
-<div align="center">
-
-<h3>📈 GitHub Stats</h3>
-
-<a href="https://github.com/jiyeon22">
-  <img align="center" style="height:180px" 
-    src="https://github-readme-stats.vercel.app/api?username=jiyeon22&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,a1ffce,faffd1,ffffff&title_color=00bcd4&text_color=000000" />
-</a>
-
-<a href="https://github.com/jiyeon22">
-  <img align="center" style="height:180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon22&layout=compact&hide_border=true&bg_color=30,a1ffce,faffd1,ffffff&title_color=00bcd4&text_color=000000" />
-</a>
-
-</div>
 
 
 
