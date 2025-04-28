@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jiyeon's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Jiyeon's%20GitHub&fontSize=50&fontColor=ffffff)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=jiyeon22&theme=tokyonight&show_icons=true">
