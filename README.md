@@ -58,7 +58,7 @@ and continuously striving to grow.
 <h3>📈 GitHub Stats</h3>
 
 <p>
-<img src="https://github-profile-trophy.vercel.app/?username=jiyeon22&theme=flat&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=false&title=Stars,Commits,PRs,Issues,Repositories,Followers&theme=gruvbox_light" />
+<img src="https://github-readme-stats.vercel.app/api?username=jiyeon22&show_icons=true&bg_color=ffffff&title_color=7f7fd5&text_color=000000&icon_color=86a8e7&border_radius=20" width="400" />
 </p>
 
 </div>
