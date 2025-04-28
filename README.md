@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Jiyeon's%20GitHub&fontSize=50&fontColor=ffffff)
 
+<h3 align="center">🔗 Profile</h3>
+<div align="center">
+  <a href="https://github.com/jiyeon22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-## 🔗 Profile
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiyeon22)
-ㄴ
 
 ## 👩‍💻 About Me
 I am passionate about learning data analysis and AI, and continuously striving to grow.
