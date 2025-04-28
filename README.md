@@ -1,17 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Jiyeon's%20GitHub&fontSize=50&fontColor=ffffff)
 
 
-🔗 Profile
+## 🔗 Profile
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiyeon22)
 
 
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 I am passionate about learning data analysis and AI, and continuously striving to grow.
 
 
 
-🚀 Skills
+## 🚀 Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)]()
@@ -21,7 +21,7 @@ I am passionate about learning data analysis and AI, and continuously striving t
 
 
 
-🛠️ Tools
+## 🛠️ Tools
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)]()
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
